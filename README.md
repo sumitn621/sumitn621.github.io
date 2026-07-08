@@ -1,1 +1,1 @@
-# sumitn621.github.io
+Upload these files to your username.github.io repository and edit the placeholders.
