@@ -1,1 +1,2 @@
-Upload these files to your username.github.io repository and edit the placeholders.
+# Personal website
+Simple website designed with html and css.
